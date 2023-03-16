@@ -1,9 +1,9 @@
-#Task: 
+## Task: 
 - write a console application;
-##Input of application (via keyboard):
+### Input of application (via keyboard):
 - coordinates of 3 points in 2-dimensional coordinate system;
  
-##Output of application (to console):
+### Output of application (to console):
 - the length of triangle sides;
 - is it equilateral triangle?
 - is it isosceles triangle?
@@ -12,7 +12,8 @@
 - even numbers from 0 to value of triangle perimeter.
  
 The source code of the application should be uploaded to a public github repository (see instruction in separated file).
-##Note:
+
+### Note:
 - input values can be with fractional part;
 - output values can be rounded;
 - you can choose you own precision during calculations:
